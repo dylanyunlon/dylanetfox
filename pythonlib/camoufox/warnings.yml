@@ -18,7 +18,7 @@ viewport: >-
     Manually setting screen & window properties is not recommended.
     Screen dimensions are randomly generated within Camoufox
     based on the provided screen constraints. See here:
-    https://github.com/daijro/camoufox/tree/main/pythonlib#browserforge-integration.
+    https://github.com/dylanyunlon/dylanetfox/tree/main/pythonlib#browserforge-integration.
 
 custom_fingerprint: >-
     Passing your own fingerprint is not recommended.
